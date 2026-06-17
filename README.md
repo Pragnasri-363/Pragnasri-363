@@ -16,4 +16,5 @@
 
 ---
 
+![snake gif](https://github.com/Pragnasri-363/Pragnasri-363/blob/output/github-contribution-grid-snake.gif)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
